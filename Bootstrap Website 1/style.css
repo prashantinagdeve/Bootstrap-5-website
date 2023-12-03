@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-inner{
+    height: 100%;
+    width: 100%;
+}
+
+.container-card{
+    /* align-items: center; */
+}
+
+.carousel-item  > img{
+    height: 80vh;
+    /* height: 100%; */
+    width: 100%;
+}
